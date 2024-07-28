@@ -3,9 +3,9 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Dados dos planos
     const plans = [
-        { name: 'Plano Básico', speed: '10 Mbps', price: 'R$ 59,99/mês', image: 'imagem/10megas.jfif' },
-        { name: 'Plano Intermediário', speed: '50 Mbps', price: 'R$ 100/mês', image: 'imagem/50mega.png' },
-        { name: 'Plano Avançado', speed: '200 Mbps', price: 'R$ 79,90/mês', image: 'imagem/200megas.png' }
+        { name: 'Plano Básico', speed: '10 Mbps', price: 'R$ 59,99/mês', image: '10megas.jfif' },
+        { name: 'Plano Intermediário', speed: '50 Mbps', price: 'R$ 100/mês', image: '50mega.png' },
+        { name: 'Plano Avançado', speed: '200 Mbps', price: 'R$ 79,90/mês', image: '200megas.png' }
     ];
 
     // Elemento onde os planos serão exibidos
